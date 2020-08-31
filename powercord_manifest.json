@@ -1,0 +1,9 @@
+{
+  "name": "Mingsense",
+  "description": "A theme based on gamesense's design.",
+  "version": "1.0.0",
+  "author": "Ah Nan#6374",
+  "theme": "Mingsense.theme.css",
+  "splashTheme": "splashming.css",
+  "license": "Unlicensed"
+}
